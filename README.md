@@ -34,8 +34,11 @@ A few years ago research was done on a tribe in America which is called the Pima
 ## Model Training 
 
 •	Get to know the data
+
 •	Exploratory Data Analysis (EDA)
+
 •	Data Modelling: Experimenting with different algorithms
+
 •	Model Evaluation: Evaluate using performance metrics
 
 ## Conclucion
