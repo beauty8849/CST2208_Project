@@ -31,6 +31,16 @@ A few years ago research was done on a tribe in America which is called the Pima
 
 •	Outcome: Class variable (0: the person is not diabetic or 1: the person is diabetic)
 
-## Model Training Key Steps
+## Model Training 
+
+•	Get to know the data
+•	Exploratory Data Analysis (EDA)
+•	Data Modelling: Experimenting with different algorithms
+•	Model Evaluation: Evaluate using performance metrics
 
 ## Conclucion
+Accuracy of Logistic Regression model on the train set: 0.74 and Accuracy of the Logictic Regression model on the test set: 0.75;
+Accuracy of Random Forest model on the train set: 0.81 and Accuracy of Random Forest model on the test set: 0.79;
+Random Forest Model is better.
+
+
