@@ -42,8 +42,8 @@ A few years ago research was done on a tribe in America which is called the Pima
 •	Model Evaluation: Evaluate using performance metrics
 
 ## Conclucion
-Accuracy of Logistic Regression model on the train set: 0.74 and Accuracy of the Logictic Regression model on the test set: 0.75;
-Accuracy of Random Forest model on the train set: 0.81 and Accuracy of Random Forest model on the test set: 0.79;
+Accuracy of Logistic Regression model on the train set: 0.76 and Accuracy of the Logictic Regression model on the test set: 0.76;
+Accuracy of Random Forest model on the train set: 0.82 and Accuracy of Random Forest model on the test set: 0.79;
 Random Forest Model is better.
 
 
